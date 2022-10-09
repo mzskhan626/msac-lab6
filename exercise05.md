@@ -18,3 +18,7 @@
 
         git status
 
+PS C:\Users\mkhan\Desktop\cisw 17\msac-lab6> git commit -m "First commit"
+[master 3febba5] First commit
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 fruits.txt

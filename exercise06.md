@@ -35,8 +35,10 @@
         git status
 
 10. Which of the steps could be omitted?
+  # git status and be omitted      
 
 11. Why might it be a bad idea to omit them?
+# because you want to see whether the status is updated or not.
 
 12. Repeat the above steps to add a new file with the name `vegetables.txt`
 

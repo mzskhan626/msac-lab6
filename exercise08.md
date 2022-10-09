@@ -41,7 +41,7 @@
 13. Create a new file named `clothing.txt`
 
 14. Does the new untracked file show up in git diff?
-
+No it is not going to show up
         git diff
 
 15. Add and commit the new file
