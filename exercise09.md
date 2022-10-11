@@ -24,6 +24,7 @@
         git log --oneline <commit_hash>
 
 7. How much of the commit hash do you need to specify? Hint, run `git help log`
-
+7 digits are the Git default for a short SHA, so that's fine for most projects. The Kernel team has increased theirs several times, as mentioned because they have several hundred thousand commits. So for your ~30k commits, 8 or 10 digits should be perfectly fine.
 8. How can you show just the last three commit messages?
-
+git show
+git log
